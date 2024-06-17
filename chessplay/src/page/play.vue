@@ -1,11 +1,11 @@
 <template>
     <div class="deleteBlue">
-        <img src="res/shui.jpg" class="full-width-img" alt="Full Width Image">
+        <img src="../assets/res/shui.jpg" class="full-width-img" alt="Full Width Image">
         <div id="content">
-            <img id="kejie-img" src="res/kejie.jpg" alt="kejie">
-            <img id="zhan-img" src="res/zhanyin.jpg" alt="zhan">
+            <img id="kejie-img" src="../assets/res/kejie.jpg" alt="kejie">
+            <img id="zhan-img" src="../assets/res/zhanyin.jpg" alt="zhan">
             <audio autoplay controls loop preload="auto">
-                <source src="res/beijin.mp3" type="audio/mp3">
+                <source src="../assets/res/beijin.mp3" type="audio/mp3">
             </audio>
             <canvas id="weiqi" width="1000" height="1000"></canvas>
             <canvas id="path" width="1000" height="1000"></canvas>
