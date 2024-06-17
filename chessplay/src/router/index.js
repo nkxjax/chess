@@ -5,7 +5,7 @@ import ShoppingIndex from "@/page/buyer.vue";
 import NewsIndex from "@/page/news";
 import CommunityPage from "@/page/community";
 import SignUp from "@/page/signup";
-import Play from "@/page/play.vue"
+import Play from "@/page/play";
 import DetailPage from "@/page/detail";
 import AssociationIndex from "@/page/association";
 import ShoppingCar from "@/page/shoppcar";
