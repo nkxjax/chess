@@ -1,8 +1,10 @@
 <template>
   <div class="head">
+
     <div class="title" @click="index">
       <img src="../assets/img/login.108b57f5.png" alt="" class="title" />
     </div>
+
     <div class="choose">
       <ul @click="change">
         <li @click="news">奕闻</li>
@@ -13,7 +15,7 @@
         <!-- //学习视频 -->
         <li @click="association">奕友</li>
         <!-- //交友房间 -->
-        <li>奕技</li>
+        <li @click="play">奕技</li>
         <!-- //ai -->
         <li @click="shopping">奕店</li>
         <!-- //shopping -->
@@ -21,10 +23,12 @@
         <!-- //个人中心 -->
       </ul>
     </div>
+
     <div class="login" v-if="this.$store.state.login_state === 1">
       <button @click="sign_in">登录</button>
       <button @click="sign_up">注册</button>
     </div>
+
     <div v-else class="login">
       <div style="margin-right: 10px">{{ name }}</div>
       <img
@@ -36,6 +40,7 @@
       />
       <div @click="out" style="cursor: pointer; color: orange">退出登录</div>
     </div>
+
   </div>
 </template>
 
@@ -81,6 +86,9 @@ export default {
     },
     news: function () {
       this.$router.push({ path: "/news" });
+    },
+    play: function () {
+      this.$router.push({path:"/play"});
     },
     community: function () {
       this.$router.push({ path: "/community" });

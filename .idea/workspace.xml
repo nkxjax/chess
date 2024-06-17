@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58ab5293-4c0d-4f9e-a160-61644abb2ee0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/chessManual/.idea/chessManual.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessManual/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessManual/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessManual/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessManual/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessManual/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/public/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/api/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/assets/img/bao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/assets/img/baomi-kl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/assets/img/login.108b57f5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/components/Header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/page/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/page/association.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/page/buyer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/page/community.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/page/detail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/page/login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/page/myself.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/page/news.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/page/shoppcar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/page/signup.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/store/getters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/store/mutations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/src/store/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessplay_serve/vue.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2hxWuk2gOsUbQ09c6zI7k8PhqjA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58ab5293-4c0d-4f9e-a160-61644abb2ee0" name="Changes" comment="" />
+      <created>1718536435002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718536435002</updated>
+      <workItem from="1718536436232" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>
